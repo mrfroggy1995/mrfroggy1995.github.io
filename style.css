@@ -1,0 +1,102 @@
+/* style.css for personal website project */
+body{
+  background: url(f8.jpg);
+	margin: 0;
+	height: 800px;
+}
+
+h1{
+	margin-top: 0; 
+}
+h4{
+	font-size: 18px;
+	color: red;
+}
+#image1{
+	float: right;
+	width: 400px;
+}
+#image1 img{
+	width: 400px;
+	float: right;
+}
+#image2{
+	width: 500px;
+	margin-top: 50px;
+}
+#image3{
+	width:700px;
+}
+#image4{
+	width: 1000px;
+}
+#image5{
+	width: 1000px;
+}
+#menu ul {
+    list-style-type: none;
+    margin: 0;
+	border: 3px solid hsl(270, 100%, 60%);
+    padding:0;
+	text-align: center;
+}
+
+#menu li {
+    display: inline;
+	font-size: 23px;
+}
+#content img{
+	margin-right: 10px;
+}
+#content2 img{
+	width: 1000px;
+}
+#image7{
+   float:right;
+   margin: 0px;
+}
+#image8{
+	float: left;
+	margin:0px;
+}
+
+#content3{
+	font-size: 30px;
+}
+#container{
+	background-color: rgba(153, 255, 230, 0.7);
+	width: 1000px;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+#footer{
+	text-align: center;
+	border-top: 1px solid black;
+	padding-bottom: 1px;
+}
+#footer p{
+	font-size: 75px;
+	color:rgb(204, 0, 0);
+}	
+.gmail{
+color: red;
+}
+.whats{
+	color: green;
+}
+h5{
+	font-size: 20px;
+}
+#prog > li{
+	color: red;
+}
+p, ul{
+	font-size: 18px;
+	font-family: time new roman;
+}
+#facebook{
+	font-size: 25px;
+	color: blue;
+}
+
